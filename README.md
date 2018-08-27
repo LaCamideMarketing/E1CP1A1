@@ -29,7 +29,7 @@ Hint: Puedes utilizar el validador de la w3c para verificar el resultado
 ~~~html
 <!DOCTYPE html>
 <html>
-<body>
+<head>
     <title></title>
 </body>
 <head>
